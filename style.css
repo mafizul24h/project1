@@ -1,1 +1,22 @@
-# project1
+nav{
+    text-align: right;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+nav ul li {
+    display: inline;
+    justify-content: right;
+    
+}
+
+nav ul li a{
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: lightblue;
+}
+
+nav ul li a:hover{
+    color: green;
+    background-color: lightgray;
+}
