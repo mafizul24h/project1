@@ -20,3 +20,7 @@ nav ul li a:hover{
     color: green;
     background-color: lightgray;
 }
+
+div h1{
+    color: orchid;
+}
